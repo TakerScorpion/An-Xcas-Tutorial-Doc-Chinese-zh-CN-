@@ -1,5 +1,5 @@
 # An-Xcas-Tutorial-Doc-Chinese-zh-CN-
-# Xcas 官方教程文档中文翻译计划 (法译中) [https://www-fourier.ujf-grenoble.fr/~parisse/giac/doc/en/tutoriel/index.html](https://www-fourier.univ-grenoble-alpes.fr/~parisse/giac/doc/fr/tutoriel.tex)
+# Xcas 官方教程文档中文翻译计划 (法译中) [https://www-fourier.ujf-grenoble.fr/~parisse/giac/doc/en/tutoriel/index.html]
 利用人工智能翻译法文，原文是官方PDF文档，排版有一定差异。
 免责说明：在尽量保留原版公式的情况下，基于pdf编辑软件适当改编一部分数学公式，可能不如原版公式易懂。
 建议有高中数学水平基础后再来观阅。
