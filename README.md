@@ -18,7 +18,5 @@
 
 > 当前总进度：**20 / 66 页 (30%)**
 
-## 📄 协议
-本项目采用 [CC-BY-4.0](LICENSE) 协议开源。
 
 最后对R. De Graeve, B. Parisse, B. Ycart献上敬意！
